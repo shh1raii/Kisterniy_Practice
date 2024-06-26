@@ -1,0 +1,13 @@
+.image-item {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .image-item img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }

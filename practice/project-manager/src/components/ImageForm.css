@@ -1,0 +1,16 @@
+.image-form {
+    margin: 20px 0;
+  }
+  
+  .image-form h2 {
+    margin-bottom: 10px;
+  }
+  
+  .image-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .image-form input, .image-form select {
+    margin-bottom: 10px;
+  }

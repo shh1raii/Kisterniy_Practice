@@ -1,0 +1,21 @@
+.project-form {
+    margin: 20px 0;
+    width: 350px;
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    left: 770px;
+  }
+  
+  .project-form h2 {
+    margin-bottom: 10px;
+  }
+  
+  .project-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .project-form input, .project-form select {
+    margin-bottom: 10px;
+  }
